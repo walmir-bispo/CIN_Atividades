@@ -1,0 +1,7 @@
+
+State Machine - |fsm|estado_atual
+Name estado_atual.parar estado_atual.pausar estado_atual.contar estado_atual.00 
+estado_atual.00 0 0 0 0 
+estado_atual.contar 0 0 1 1 
+estado_atual.pausar 0 1 0 1 
+estado_atual.parar 1 0 0 1 
