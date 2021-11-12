@@ -6,3 +6,4 @@ Disciplinas:
 * Sistemas Digitais
 * Infraestrutura de Hardware
 * Inglês para computação
+* Sistemas inteligentes
